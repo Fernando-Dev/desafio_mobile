@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ferna/StudioProjects/desafio_mobile/app/src/main/res/layout/activity_main.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/ferna/StudioProjects/desafio_mobile/app/src/main/res/layout/fragment_blank.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/ferna/StudioProjects/desafio_mobile/app/src/main/res/layout/fragment_login.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/ferna/StudioProjects/desafio_mobile/app/src/main/res/layout/fragment_maps.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/ferna/StudioProjects/desafio_mobile/app/src/main/res/layout/fragment_splash.xml" value="0.11820652173913043" />
       </map>
     </option>
   </component>

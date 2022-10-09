@@ -14,7 +14,7 @@
         android:theme="@style/Theme.ByCodersApp"
         tools:targetApi="31">
         <activity
-            android:name="br.fernando.bycodersapp.ui.main.view.MainActivity"
+            android:name="br.fernando.bycodersapp.ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
